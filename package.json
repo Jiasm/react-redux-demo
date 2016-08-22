@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "init": "./.jarvis",
     "start": "nodemon --ignore node_modules/ -e js,hbs,html,css server.js"
   },
   "repository": {

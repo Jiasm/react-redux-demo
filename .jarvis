@@ -1,0 +1,4 @@
+cd ./src
+webpack --config dll.config.js
+gulp
+cd ..
